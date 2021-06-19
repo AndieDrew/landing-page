@@ -1,0 +1,13 @@
+.title {
+    border: 2px solid red;
+}
+
+.heading {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+.headerImg {
+    max-width: 60px;
+}
